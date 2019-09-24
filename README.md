@@ -1,7 +1,7 @@
-# Vulpi-Vagas
+# Vagas da Vulpi 
 
-Acompanhe aqui todas as vagas em aberto da plataforma Vulpi
+Acompanhe aqui todas as vagas em aberto da plataforma Vulpi!
 
-att;
+
 
 vulpi.com.br
